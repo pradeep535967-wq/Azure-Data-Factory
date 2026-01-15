@@ -1,0 +1,9 @@
+{
+	"name": "PradeepAditriAzure",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69b25675-a9de-4cff-ba08-f9ea44c28937",
+		"tenantId": "f4d90bad-864d-48f2-a166-c594890ee35b"
+	}
+}

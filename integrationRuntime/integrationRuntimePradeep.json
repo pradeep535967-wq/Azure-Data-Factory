@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimePradeep",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
